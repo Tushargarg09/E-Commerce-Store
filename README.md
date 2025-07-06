@@ -1,4 +1,4 @@
-# 🛒 ShopHub - E-commerce Store UI
+# 🛒 ShopHub - E-Commerce Store
 
 ShopHub is a modern and responsive e-commerce web application built using **React**, **Tailwind CSS**, and **Vite**. It features a product grid with filtering options, cart functionality with side drawer, and a clean, user-friendly UI.
 
